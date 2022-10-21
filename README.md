@@ -4,4 +4,5 @@ Repositorio del curso de Herramientas Informáticas y gestión de la informació
 Contenido:
 
 1.- Uso de Github
+
 2.- Uso de Python 
